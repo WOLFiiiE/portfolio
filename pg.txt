@@ -1,0 +1,13 @@
+000
+http://localhost/portfolio/
+
+001
+http://localhost/portfolio/?page_id=22
+
+002
+http://localhost/portfolio/?page_id=26
+
+003
+http://localhost/portfolio/?page_id=24
+
+:)
